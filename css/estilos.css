@@ -19,6 +19,12 @@ body
 	padding: 0.5em;
 }
 
+#cabecera #logo
+{
+	width: 80px;
+	vertical-align: middle;
+}
+
 #container
 {
 	width: 70%;
